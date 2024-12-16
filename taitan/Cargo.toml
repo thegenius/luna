@@ -3,7 +3,7 @@ name = "taitan"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "The Next Generation of Web Framework"
-homepage = "https://github.com/thegenius/taitan"
+repository = "https://github.com/thegenius/taitan"
 version = {workspace = true}
 rust-version = {workspace = true}
 
